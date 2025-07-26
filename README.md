@@ -22,9 +22,11 @@ Este proyecto es una herramienta interactiva que facilita el clásico juego del 
 ## 📦 Cómo usar
 
 1. Clona este repositorio:
+
    ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
-   cd amigo-secreto
+   git clone https://github.com/Juancallenguer/challenge-amigo-secreto.git
+   cd challenge-amigo-secreto
+   
 2. Abre el archivo index.html en tu navegador web.
 
 3. Ingresa nombres en el campo de texto y haz clic en Adicionar.
