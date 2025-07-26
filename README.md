@@ -29,9 +29,9 @@ Este proyecto es una herramienta interactiva que facilita el clásico juego del 
    
 2. Abre el archivo index.html en tu navegador web.
 
-3. Ingresa nombres en el campo de texto y haz clic en Adicionar.
+3. Ingresa nombres en el campo de texto y haz clic en "Añadir".
 
-4. Una vez que tengas todos los participantes, haz clic en Sortear Amigo para ver el resultado.
+4. Una vez que tengas todos los participantes, haz clic en "Sortear Amigo" para ver el resultado.
 
 ✨ Capturas de pantalla
 
