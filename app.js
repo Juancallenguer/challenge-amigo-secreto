@@ -18,9 +18,10 @@ function actualizarListaAmigos() {
     const listaAmigos = document.getElementById('listaAmigos');
     listaAmigos.innerHTML = '';
     
-    amigos.forEach(amigo => {
+    for (let i = 0; i < amigos.length; i++) {
         const li = document.createElement('li');
-        li.textContent = amigo;
+        li.textContent = amigos[i];
         listaAmigos.appendChild(li);
-    });
+    }
 }
+
